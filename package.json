@@ -1,0 +1,15 @@
+{
+  "name": "module2_task_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["cowsay"],
+  "author": "Serhii Shtelmakh",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
